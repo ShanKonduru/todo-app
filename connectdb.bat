@@ -1,0 +1,1 @@
+docker exec -it 848375361c93 mysql -p
